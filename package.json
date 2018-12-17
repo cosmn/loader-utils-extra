@@ -1,0 +1,22 @@
+{
+  "name": "loader-utils-extra",
+  "version": "1.0.0",
+  "description": "Additional webpack loader utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cosmn/loader-utils-extra.git"
+  },
+  "optionalDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.9.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "prettier": "^1.15.2"
+  },
+  "author": "Cosmin Budinschi",
+  "license": "MIT"
+}
